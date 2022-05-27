@@ -1,0 +1,23 @@
+body{
+    background-color: #c8f2fa;
+}
+hr{
+   border-style: none;
+   border-top: dotted ;
+   width:20%; 
+   border-width: 7px;
+   border-color: rgb(65, 88, 88);
+}
+h1{
+    color: rgb(253, 116, 116);
+}
+h3:hover{
+    color: rgb(83, 145, 145);
+}
+img{
+    border-style: ridge;
+}
+
+.border-style{
+    border-radius: 100%;
+}
